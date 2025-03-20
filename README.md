@@ -1,1 +1,1 @@
-# The-Last-Checkpoint
+Concerning my career readiness, I'd like to venture and master backend development and database systems to the core and for this I need quite a lot of intense practice and consistently building projects. The bootcamp was beginner friendly and the learning offered there is quite intensive and comprehensible.
